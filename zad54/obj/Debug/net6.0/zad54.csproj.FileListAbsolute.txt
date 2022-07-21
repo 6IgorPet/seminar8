@@ -1,0 +1,15 @@
+D:\semin8\zad54\bin\Debug\net6.0\zad54.exe
+D:\semin8\zad54\bin\Debug\net6.0\zad54.deps.json
+D:\semin8\zad54\bin\Debug\net6.0\zad54.runtimeconfig.json
+D:\semin8\zad54\bin\Debug\net6.0\zad54.dll
+D:\semin8\zad54\bin\Debug\net6.0\zad54.pdb
+D:\semin8\zad54\obj\Debug\net6.0\zad54.csproj.AssemblyReference.cache
+D:\semin8\zad54\obj\Debug\net6.0\zad54.GeneratedMSBuildEditorConfig.editorconfig
+D:\semin8\zad54\obj\Debug\net6.0\zad54.AssemblyInfoInputs.cache
+D:\semin8\zad54\obj\Debug\net6.0\zad54.AssemblyInfo.cs
+D:\semin8\zad54\obj\Debug\net6.0\zad54.csproj.CoreCompileInputs.cache
+D:\semin8\zad54\obj\Debug\net6.0\zad54.dll
+D:\semin8\zad54\obj\Debug\net6.0\refint\zad54.dll
+D:\semin8\zad54\obj\Debug\net6.0\zad54.pdb
+D:\semin8\zad54\obj\Debug\net6.0\zad54.genruntimeconfig.cache
+D:\semin8\zad54\obj\Debug\net6.0\ref\zad54.dll
